@@ -1,8 +1,5 @@
-import java.io.BufferedOutputStream;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.InputStream;
-import java.net.Socket;
+import java.io.*;
+import java.net.*;
 
 public class Client {
 
